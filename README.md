@@ -1,3 +1,3 @@
-i contributed to ESA and NASA repos.
+hey, im just a student who likes privacy, homebrew, console modding and free software :3
 
-(which is a fancy way to say that i fixed some typos)
+i contributed to some big repositories! (by fixing typos in the readmes lol)
